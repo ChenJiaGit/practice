@@ -6,3 +6,4 @@ Git tracks changes of files.
 Creating a new branch is quick.
 Change on dev branch.
 Creating a new branch is quick and simple.
+new dev branch
